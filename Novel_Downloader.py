@@ -24,7 +24,7 @@ def my_form_post():
     return download_page(novel_list)
 
 def download_page(link_list):
-    htmltext = "<html><head><title>Novel Downloader by Yu-An Chen</title></head><body><h2 style=\"color: #2e6c80;\">Novel Downloader</h2>"
+    htmltext = "<html><head><title>Novel Downloader by Ryter</title></head><body><h2 style=\"color: #2e6c80;\">Novel Downloader</h2>"
     
     for l in link_list:
 
