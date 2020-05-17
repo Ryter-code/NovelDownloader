@@ -1,5 +1,5 @@
 # from www.wenku8.net link get novel txt
-# Yu-An Chen by 2020/04/26
+# Ryter by 2020/04/26
 
 # pip install BeautifulSoup4 Flask requests 
 
